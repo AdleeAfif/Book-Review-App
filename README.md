@@ -4,6 +4,7 @@
 
 Book Collection is a web application designed for book enthusiasts to review and rate books. Built using Express.js and MySQL, this application allows users to interact with a database of books, add new books for review, rate existing books, leave review comments, and perform various filters based on book ratings and titles.
 
+
 **Goals:**
 
 The primary goals of this web application are as follows:
@@ -18,6 +19,7 @@ The primary goals of this web application are as follows:
 
 5. **Deleting a Book:** Users have the ability to delete books from the database. Once deleted, the book will no longer appear in the list of available books.
 
+
 **Features:**
 
 - **View Book List:** Browse through an extensive collection of books.
@@ -31,6 +33,7 @@ The primary goals of this web application are as follows:
 - **Leave Comments:** Share thoughts and opinions by leaving review comments on specific books.
 
 - **Delete Books:** Remove books from the database, ensuring the content remains relevant and high-quality.
+
 
 **Getting Started:**
 
@@ -68,6 +71,7 @@ To get started with the Book Collection web application, follow these steps:
 
 6. **Access the Application:**
    Open a web browser and visit `http://localhost:3000` to access the Book Collection web application.
+
 
 **Contributing:**
 
